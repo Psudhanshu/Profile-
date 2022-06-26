@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Javascript Project<br>👯 I’m looking to collaborate on machine learning models<br>🤝 I’m looking for help with statistics<br>🌱 I’m currently learning convolutional neural networks<br>💬 Ask me about computer vision<br>⚡ Fun fact I'm originally a developer later turned into a data scientist!
+🔭 I’m currently working on a machine learning Project<br>👯 I’m looking to collaborate on machine learning models<br>🤝 I’m looking for help with statistics<br>🌱 I’m currently learning convolutional neural networks<br>💬 Ask me about computer vision<br>⚡ Fun fact I'm originally a developer later turned into a data scientist!
 
 
 ## 🌐 Socials:
