@@ -1,6 +1,6 @@
 # Profile
 
-# *Data Science Profile
+# Developer Profile
 # Sudhanshu Pawar
 
 - Web Developer
@@ -28,7 +28,7 @@
 **Database** - mySQL
 
 
-# *Developer Profile
+# Data Science Profile
 
 - Junior Data Scientist
 8308991626
