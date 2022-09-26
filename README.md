@@ -40,8 +40,8 @@
     
 
 ## Summary
-
-Skilled machine learning engineer with expertise in Classification models. Eager to bring experience in Analysis, Model evaluation, and Algorithms.
+Junior data scientist with a skilled hand in analysis, model development and optimization.
+Keen to learn more about the field.
 
 ## Education
 
